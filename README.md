@@ -1,7 +1,4 @@
-Repository name:
-"smoking-mortality-analysis"
 
-README তে লেখো:
 # Smoking & Mortality Analysis — NHANES 2017-18
 
 ## Research Question
